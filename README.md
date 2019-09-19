@@ -1,10 +1,22 @@
 # NewsX
 NewsX Installer Premium Tools
-# pkg update && pkg upgrade
-# pkg install python && pkg install python2
-# pkg install ruby && gem install lolcat
-# pkg install git
-# git clone https://github.com/pengangguranmuda/NewsX
-# cd NewsX
-# sh newsx.sh
-# Dont forget to Select 'a' for basic installation system
+# INSTALLATION
+```
+$ pkg update && pkg upgrade
+$ pkg install python python2
+$ pip2 install mechanize
+$ pip2 install requests
+$ pkg install git
+$ git clone https://github.com/pengangguranmuda/NewsX
+$ cd NewsX
+$ chmod 777 newss.sh
+$ ./newsx.sh
+```
+
+
+
+
+
+
+
+
