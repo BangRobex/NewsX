@@ -1,4 +1,4 @@
-# NewsXNewsX Premium Installer
+# NewsX Premium Installer
 Just My Playlist tool for installing any Hacking Tools on Termux
 # INSTALLATION
 ```
