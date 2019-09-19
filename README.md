@@ -9,7 +9,7 @@ $ pip2 install requests
 $ pkg install git
 $ git clone https://github.com/pengangguranmuda/NewsX
 $ cd NewsX
-$ chmod 777 newss.sh
+$ chmod 777 newsx.sh
 $ ./newsx.sh
 ```
 
