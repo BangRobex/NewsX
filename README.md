@@ -1,5 +1,5 @@
-# NewsX
-NewsX Installer Premium Tools
+# NewsXNewsX Premium Installer
+Just My Playlist tool for installing any Hacking Tools on Termux
 # INSTALLATION
 ```
 $ pkg update && pkg upgrade
